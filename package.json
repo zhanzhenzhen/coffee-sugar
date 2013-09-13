@@ -1,0 +1,17 @@
+{
+    "name": "coffee-sugar",
+    "version": "1.0.0",
+    "description": "A library that extends native JavaScript / CoffeeScript.",
+    "keywords": ["library", "app", "coffeescript"],
+    "author": "Zhenzhen Zhan <zhanzhenzhen@hotmail.com>",
+    "homepage": "https://github.com/zhanzhenzhen/coffee-sugar",
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/zhanzhenzhen/coffee-sugar/blob/master/LICENSE.txt"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhanzhenzhen/coffee-sugar.git"
+    },
+    "main": "coffee-sugar"
+}
